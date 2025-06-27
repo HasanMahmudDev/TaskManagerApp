@@ -3,8 +3,6 @@
 
 A simple yet powerful **Task Management System** built with **ASP.NET Core MVC**, following **Clean Architecture**, using **Entity Framework Core** and styled with **Bootstrap 5**.
 
-![UI Preview](https://user-images.githubusercontent.com/your-screenshot.png)
-
 ---
 
 ## 🏗 Architecture
@@ -36,14 +34,6 @@ TaskManager.Web (Presentation Layer)
 ✅ MSSQL Database  
 ✅ Clean Code, Repository Pattern  
 ✅ Easy to extend and maintain  
-
----
-
-## 🖼 UI Screenshots
-
-| Dashboard | Task Entry |
-|-----------|------------|
-| ![Dashboard](https://user-images.githubusercontent.com/dashboard.png) | ![TaskEntry](https://user-images.githubusercontent.com/taskentry.png) |
 
 ---
 
@@ -123,14 +113,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📄 License
 
-MIT License © 2025 [Hasan Mahmud](https://github.com/your-profile)
+MIT License © 2025 [Hasan Mahmud](https://github.com/HasanMahmudDev)
 
 ---
 
 ## 📬 Contact
 
-📧 Email: hasan@example.com  
-🌐 Portfolio: [your-website.com](https://your-website.com)
+📧 Email: hasanmahmuddev@gmail.com  
+🌐 Portfolio: [https://hasanmahmud.pro](https://hasanmahmud.pro)
 
 ---
 
