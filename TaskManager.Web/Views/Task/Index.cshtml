@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TaskManager.Domain.Entities.TaskItem>
+@using TaskManager.Domain.Enums
+
+@{
+    ViewBag.Title = "Task List";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="mb-0">📋 Task Management</h2>
+        <a class="btn btn-primary" asp-action="Create">
+            <i class="bi bi-plus-circle"></i> Add New Task
+        </a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning">
+            No tasks available. Click "Add New Task" to create one.
+        </div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var task in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm border-primary">
+                        <div class="card-body">
+                            <h5 class="card-title">@task.Title</h5>
+                            <p class="card-text text-muted">@task.Description</p>
+
+                            <div class="mb-2">
+                                <span class="badge bg-info text-dark">👤 @task.AssignedTo</span>
+                                <span class="badge bg-secondary">@task.CompanyName</span>
+                                <span class="badge bg-success">@task.Priority</span>
+                                <span class="badge bg-warning text-dark">@task.Status</span>
+                            </div>
+
+                            <small class="text-muted">📅 @task.CreateDate.ToShortDateString()</small>
+                        </div>
+
+                        <div class="card-footer d-flex justify-content-between">
+                            <a class="btn btn-sm btn-outline-info" asp-action="Details" asp-route-id="@task.Id">Details</a>
+                            <a class="btn btn-sm btn-outline-warning" asp-action="Edit" asp-route-id="@task.Id">Edit</a>
+                            <a class="btn btn-sm btn-outline-danger" asp-action="Delete" asp-route-id="@task.Id">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

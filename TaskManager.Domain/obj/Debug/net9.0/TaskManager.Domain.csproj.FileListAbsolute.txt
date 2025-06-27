@@ -1,0 +1,11 @@
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.deps.json
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.dll
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.pdb
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfoInputs.cache
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfo.cs
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.dll
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\refint\TaskManager.Domain.dll
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.pdb
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\ref\TaskManager.Domain.dll

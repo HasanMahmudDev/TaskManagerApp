@@ -1,0 +1,57 @@
+﻿@model TaskManager.Application.ViewModels.TaskEntryViewModel
+@using TaskManager.Domain.Enums
+
+<h2>Create New Task</h2>
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CompanyName" class="form-label"></label>
+        <input asp-for="CompanyName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Module" class="form-label"></label>
+        <input asp-for="Module" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="RequirementType" class="form-label"></label>
+        <input asp-for="RequirementType" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="AssignedTo" class="form-label"></label>
+        <input asp-for="AssignedTo" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Tag" class="form-label"></label>
+        <input asp-for="Tag" class="form-control" />
+    </div>
+    <div class="mb-3 form-check">
+        <input asp-for="IsPreviousWork" class="form-check-input" />
+        <label asp-for="IsPreviousWork" class="form-check-label"></label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CreateDate" class="form-label"></label>
+        <input asp-for="CreateDate" type="datetime-local" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="EstdTime" class="form-label"></label>
+        <input asp-for="EstdTime" type="time" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Priority" class="form-label"></label>
+        <select asp-for="Priority" asp-items="Html.GetEnumSelectList<TaskPriority>()" class="form-select"></select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Upload" class="form-label"></label>
+        <input asp-for="Upload" type="file" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
