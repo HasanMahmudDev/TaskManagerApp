@@ -1,7 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TaskManager.Application.Interfaces;
+using TaskManager.Application.Common.Interfaces;
+
+using TaskManager.Application.Services;
+
+//using TaskManager.Application.Interfaces;
 using TaskManager.Infrastructure.Persistence.Context;
 using TaskManager.Infrastructure.Persistence.Repositories;
+using TaskManager.Infrastructure.Services;
+//using TaskManager.Infrastructure.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // ✅ Register the TaskService with ITaskService interface
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<ITaskService, TaskService>();
 
 var app = builder.Build();

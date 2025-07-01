@@ -260,6 +260,7 @@ E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\TaskManager.
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\TaskManager.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\TaskManager.Web.RazorAssemblyInfo.cache
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\TaskManager.Web.RazorAssemblyInfo.cs
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\TaskManager.Web.sourcelink.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

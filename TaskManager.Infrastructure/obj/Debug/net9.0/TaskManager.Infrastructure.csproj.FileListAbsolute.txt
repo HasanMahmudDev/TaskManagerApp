@@ -11,6 +11,7 @@ E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\T
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.AssemblyInfoInputs.cache
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.AssemblyInfo.cs
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.sourcelink.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskMana.DD0CDC6B.Up2Date
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.dll
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net9.0\refint\TaskManager.Infrastructure.dll

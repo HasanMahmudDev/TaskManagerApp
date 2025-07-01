@@ -5,6 +5,7 @@ E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManag
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfoInputs.cache
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfo.cs
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.sourcelink.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.dll
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\refint\TaskManager.Domain.dll
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.pdb

@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace TaskManager.Domain.Enums
 {
-    public enum TaskPriority
+    public enum UserRole
     {
-        Low,
-        Medium,
-        High
+        Admin,
+        Manager,
+        Employee,
+        User
     }
 }

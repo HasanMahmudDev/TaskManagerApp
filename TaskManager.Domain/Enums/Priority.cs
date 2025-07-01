@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace TaskManager.Domain.Enums
 {
-    public enum TaskStatus
+    public enum Priority
     {
-        Pending,
-        InProgress,
-        Completed,
-        Hold
+        Low,
+        Medium,
+        High
     }
 }

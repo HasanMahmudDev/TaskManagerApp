@@ -8,6 +8,7 @@ E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\Task
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskManager.Application.AssemblyInfoInputs.cache
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskManager.Application.AssemblyInfo.cs
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskManager.Application.sourcelink.json
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskMana.898BD9DB.Up2Date
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\TaskManager.Application.dll
 E:\01_Projects\Core\TaskManagerApp\TaskManager.Application\obj\Debug\net9.0\refint\TaskManager.Application.dll

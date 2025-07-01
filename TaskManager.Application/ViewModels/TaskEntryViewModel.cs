@@ -28,7 +28,7 @@ namespace TaskManager.Application.ViewModels
 
         public TimeSpan EstdTime { get; set; }
 
-        public TaskPriority Priority { get; set; }
+        public Priority Priority { get; set; }
 
         public IFormFile Upload { get; set; }
     }
