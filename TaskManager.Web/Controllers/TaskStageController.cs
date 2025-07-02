@@ -14,6 +14,7 @@ namespace TaskManager.Web.Controllers
             _context = context;
         }
 
+        //Get : TaskStage
         public async Task<IActionResult> Index()
         {
             return View(await _context.TaskStages.ToListAsync());
