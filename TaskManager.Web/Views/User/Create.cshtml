@@ -1,0 +1,44 @@
+﻿@model TaskManager.Domain.Entities.User
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<h2>Create User</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Username" class="control-label"></label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PasswordHash" class="control-label">Password</label>
+        <input asp-for="PasswordHash" class="form-control" type="password" />
+        <span asp-validation-for="PasswordHash" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Role" class="control-label"></label>
+        <select asp-for="Role" class="form-control" asp-items="Html.GetEnumSelectList<TaskManager.Domain.Enums.UserRole>()"></select>
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="IsActive" class="control-label"></label>
+        <input asp-for="IsActive" class="form-check-input" type="checkbox" />
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
