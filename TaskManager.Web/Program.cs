@@ -21,6 +21,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // ✅ Register the TaskService with ITaskService interface
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<ITaskService, TaskService>();
+builder.Services.AddScoped<IProjectService, ProjectService>();
+
 
 var app = builder.Build();
 

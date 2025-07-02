@@ -1,0 +1,20 @@
+﻿@model TaskStage
+@{
+    ViewBag.Title = "Edit Task Stage";
+}
+
+<div class="container mt-4">
+    <h2>Edit Task Stage</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="TaskStageId" />
+        <div class="form-group">
+            <label for="TaskStageName">Task Stage Name</label>
+            <input asp-for="TaskStageName" class="form-control" />
+            <span asp-validation-for="TaskStageName" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
