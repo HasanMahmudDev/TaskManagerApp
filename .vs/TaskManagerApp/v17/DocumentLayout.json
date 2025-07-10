@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\01_Projects\\Core\\TaskManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\taskstage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\taskstage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\taskstage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\taskstage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\taskstage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\taskstage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\taskstage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\taskstage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|e:\\01_projects\\core\\taskmanagerapp\\taskmanager.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9614B256-5196-45AA-B8CE-5E7DE0497F38}|TaskManager.Web\\TaskManager.Web.csproj|solutionrelative:taskmanager.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TaskManager.Web\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T06:59:12.495Z",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T18:39:07.746Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\TaskStage\\Edit.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Edit.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\TaskStage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T18:55:14.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\TaskStage\\Delete.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Delete.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\TaskStage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T18:55:07.83Z",
               "EditorCaption": ""
             },
             {
@@ -72,67 +98,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\User\\Delete.cshtml",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Delete.cshtml",
-              "RelativeToolTip": "TaskManager.Web\\Views\\User\\Delete.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\TaskStage\\Create.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Create.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\TaskStage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T07:14:51.546Z",
+              "WhenOpened": "2025-07-10T18:54:43.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\User\\Edit.cshtml",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Edit.cshtml",
-              "RelativeToolTip": "TaskManager.Web\\Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\TaskStage\\Index.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\TaskStage\\Index.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\TaskStage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T07:12:37.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\User\\Create.cshtml",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "TaskManager.Web\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T07:08:49.83Z",
+              "WhenOpened": "2025-07-10T18:37:58.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Details.cshtml",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\User\\Details.cshtml",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Details.cshtml",
-              "RelativeToolTip": "TaskManager.Web\\Views\\User\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TaskManager.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T07:06:45.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskManager.Web\\Views\\User\\Index.cshtml",
-              "ToolTip": "E:\\01_Projects\\Core\\TaskManagerApp\\TaskManager.Web\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "TaskManager.Web\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T07:05:26.036Z",
+              "WhenOpened": "2025-07-10T18:35:03.663Z",
               "EditorCaption": ""
             }
           ]

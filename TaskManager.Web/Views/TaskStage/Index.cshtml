@@ -4,27 +4,33 @@
     ViewBag.Title = "Task Stage List";
 }
 
-<div class="container mt-4">
+<div class="container-fluid">
     <h2 class="mb-3">Task Stage List</h2>
     <a asp-action="Create" class="btn btn-success mb-3">+ Add New Task Stage</a>
 
     <table class="table table-bordered table-striped">
         <thead class="thead-dark">
-            <tr>
+            <tr class="align-middle align-content-center">
+                <th>#</th>
                 <th>Task Stage Name</th>
                 <th style="width: 150px;">Actions</th>
             </tr>
         </thead>
         <tbody>
+            @{
+                int sl = 1;
+            }
             @foreach (var item in Model)
             {
-                <tr>
+                <tr class="align-middle">
+                    <td>@sl</td>
                     <td>@item.TaskStageName</td>
                     <td>
                         <a asp-action="Edit" asp-route-id="@item.TaskStageId" class="btn btn-sm btn-primary">Edit</a>
                         <a asp-action="Delete" asp-route-id="@item.TaskStageId" class="btn btn-sm btn-danger">Delete</a>
                     </td>
                 </tr>
+                sl++;
             }
         </tbody>
     </table>
